@@ -214,7 +214,7 @@ LangGraph_Economic_Analysis/
 ├── studio_config.py                # LangGraph Studio configuration
 ├── langgraph.json                  # LangGraph Studio project configuration
 ├── requirements.txt                # Python dependencies
-├── .env                           # Environment variables (create this)
+├── .env.template                   # Environment variables (create this)
 ├── economic_charts/               # Generated economic visualizations
 ├── economic_reports/              # Generated economic reports
 ├── workflow_visualizations/       # Workflow analysis charts
@@ -295,20 +295,6 @@ LangGraph_Economic_Analysis/
 
 ## 📞 Support and Documentation
 
-### **Getting Help**
-1. Check the **configuration and setup** sections
-2. Review **API documentation** for data sources
-3. Examine **sample outputs** and analysis results
-4. Use **LangGraph Studio** for workflow debugging
-5. Contact support for **technical issues**
-
-### **Contributing**
-- Fork the repository and create **feature branches**
-- Follow **Python coding standards** and documentation
-- Add **tests** for new economic indicators or analysis features
-- Submit **pull requests** with detailed descriptions
-- Maintain **backward compatibility** when possible
-
 ## 📄 License and Attribution
 
 ### **License**
@@ -316,25 +302,6 @@ This project is provided under the **MIT License** for educational and research 
 
 ### **Data Attribution**
 - **FRED Data**: Federal Reserve Bank of St. Louis (Public Domain)
-- **Alpha Vantage**: Subject to Alpha Vantage API terms and conditions
-- **Yahoo Finance**: Subject to Yahoo Terms of Service
 - **OpenAI**: Subject to OpenAI API terms and conditions
-
-### **Citation**
-When using this system for research or analysis, please cite:
-```
-LangGraph Economic Analysis System
-AI-Powered Economic Intelligence Platform
-[Year] - [Your Organization/Name]
-```
-
----
-
-**Last Updated**: December 2024  
-**Python Version**: 3.11+  
-**LangGraph Version**: 0.2.16+  
-**Status**: ✅ Production Ready
-
-For detailed API documentation and advanced usage examples, see the project documentation or visit our support resources.
 
 **🎉 Ready to analyze the economy with AI-powered intelligence!**
