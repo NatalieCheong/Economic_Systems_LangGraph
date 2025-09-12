@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "economic_agent": "./studio_config.py:graph"
+  },
+  "env": "./.env"
+}
