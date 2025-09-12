@@ -1,7 +1,0 @@
-{
-  "dependencies": ["."],
-  "graphs": {
-    "economic_analysis": "./langgraph_economic_agent.py:get_economic_analysis_graph"
-  },
-  "env": ".env"
-}
