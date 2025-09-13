@@ -361,6 +361,20 @@ LangGraph_Economic_Analysis/
 - **Clear data retention** policies for cached information
 - **Secure transmission** of API requests and responses
 
+## 🙏 Acknowledgements
+
+### **Federal Reserve Economic Data (FRED)**
+For providing comprehensive, reliable economic data that serves as the foundation for all analysis conducted by this platform. FRED's extensive database of economic indicators enables sophisticated macroeconomic analysis and research.
+
+### **OpenAI**
+For the GPT-4 technology that powers the AI-enhanced economic analysis and insight generation capabilities. The advanced language model enables sophisticated interpretation of economic data and generation of professional-grade economic narratives.
+
+### **LangGraph**
+For the workflow orchestration framework that enables sophisticated multi-step economic analysis processes. LangGraph's state management and conditional routing capabilities make complex economic analysis workflows possible and maintainable.
+
+### **LangSmith**
+For the comprehensive observability, monitoring, and debugging platform that ensures production-ready AI performance. LangSmith's tracing and analytics capabilities enable continuous improvement and reliable operation of AI-powered economic analysis.
+
 ## 📄 License and Attribution
 
 ### **License**
